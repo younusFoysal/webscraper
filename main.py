@@ -1,7 +1,8 @@
 
 
 print("hello")
-helo
+print('world')
+print('Pera')
 
 
 
